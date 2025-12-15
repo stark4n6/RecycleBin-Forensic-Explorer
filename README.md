@@ -153,7 +153,7 @@ cd RecycleBin-Forensic-Explorer
 pip install -r requirements.txt
 
 # Run the application
-python recycle_bin_explorer.py
+python RecycleBin-Forensic-Explorer.py
 ```
 
 ## 💡 Usage
@@ -162,7 +162,7 @@ python recycle_bin_explorer.py
 
 1. **Launch the application**
    ```bash
-   python recycle_bin_explorer.py
+   python RecycleBin-Forensic-Explorer.py
    ```
 
 2. **Load forensic evidence**
